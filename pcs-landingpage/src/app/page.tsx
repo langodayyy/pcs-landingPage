@@ -25,7 +25,7 @@ export default function Home() {
         <div className="w-full flex flex-col justify-center items-center gap-10 px-4">
        
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-10 max-width-[1200px]">
-            <CardLink logo="/dof.svg" title="DOF" subtitle="Document Office" link="http://dof.petrokopindo.com"/>
+            <CardLink logo="/dof.svg" title="DOF" subtitle="Digital Office" link="http://dof.petrokopindo.com"/>
             <CardLink logo="/erp.svg" title="ERP" subtitle="Enterprise Resource Planning" link="http://pcs-vpn.avolut.com"/>
             <CardLink logo="/kms.svg" title="KMS" subtitle="Knowledge Management System" link="http://kms.petrokopindo.com"/>
           </div>
